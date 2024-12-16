@@ -1,0 +1,19 @@
+   x     y
+0 -100  -9.0
+1  -95 -25.0
+2  -90 -28.0
+3  -85 -10.0
+4  -80 -38.0
+Iteration 0: a = -0.7610, c = 0.1571, cost = 3.0302
+Iteration 30: a = 0.0109, c = 0.0857, cost = 0.9871
+Iteration 60: a = 0.4319, c = 0.0467, cost = 0.3791
+Iteration 90: a = 0.6616, c = 0.0255, cost = 0.1982
+Iteration 120: a = 0.7869, c = 0.0139, cost = 0.1444
+Iteration 150: a = 0.8552, c = 0.0076, cost = 0.1283
+Iteration 180: a = 0.8925, c = 0.0041, cost = 0.1236
+Iteration 210: a = 0.9128, c = 0.0023, cost = 0.1222
+Iteration 240: a = 0.9239, c = 0.0012, cost = 0.1217
+Iteration 270: a = 0.9300, c = 0.0007, cost = 0.1216
+Iteration 300: a = 0.9333, c = 0.0004, cost = 0.1216
+Iteration 330: a = 0.9351, c = 0.0002, cost = 0.1216
+Optimized parameters: a = 0.2046, c = -4.3583
